@@ -14,8 +14,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/semmozhi-a-aa4a85381"><img align="center" src="https://1drv.ms/i/c/2212E879052AEAF8/IQCgRvh7GhYQRI1RzzUVN9MrAVwDI4CzTGgfqT8oUepUysc?e=49TnPJ" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Semmozhi13/"><img align="center" src="https://1drv.ms/i/c/2212E879052AEAF8/IQBfyGWTMyXeR4t1FjUNNDq8AWtoZznqCA6I9nQUR3f-10w?e=n88wiL" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/semmozhi-a-aa4a85381"><img align="center" src="" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Semmozhi13/"><img align="center" src="https://commons.wikimedia.org/wiki/File:LeetCode_logo_black.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
