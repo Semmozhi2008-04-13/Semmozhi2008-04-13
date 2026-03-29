@@ -1,49 +1,60 @@
-# Hi there, I'm Semmozhi A 👋
+# <p align="center">✨ Semmozhi A | Aspiring Software Engineer ✨</p>
 
-### 🚀 About Me
-I'm a **Computer Science Engineering student** at **Chennai Institute of Technology** (GPA: 8.62) with a passion for building impactful web solutions. I'm a competitive programmer and a GenAI enthusiast.
-
-- 🏆 **Achievement:** Maatram HackForge 2025 Semi-finalist (Top 25 out of 255+ teams).
-- 💡 **Currently working on:** Maatram ConnectX - An Alumni Connect platform.
-- 🎯 **Goal:** Mastering Data Structures, Algorithms, and Full-stack development.
-
----
-
-### 🛠 Tech Stack & Skills
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- Frontend/Design -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- Backend -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
----
-
-### 📊 Coding Activity
-<p align="left">
-<a href="https://leetcode.com"><img src="https://shields.io" /></a>
-</p>
-
-![Semmozhi's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
-### 🤝 Connect with me
-<p align="left">
-<a href="mailto:asemmozhi132008@gmail.com"><img src="https://shields.io" /></a>
-<a href="https://linkedin.com"><img src="https://shields.io" /></a>
-</p>
-
----
 <p align="center">
-  <img src="https://komarev.com" alt="Semmozhi-A" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
+---
+
+### 🚀 Quick Glimpse
+- 🎓 **Education:** B.E. in Computer Science at **Chennai Institute of Technology** 
+
+
+
+---
+
+### 🛠️ Technical Arsenal
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" height="40" alt="C++" /><br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" height="40" alt="JS" /><br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" height="40" alt="SQL" /><br />MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" height="40" alt="Firebase" /><br />Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" height="40" alt="Figma" /><br />Figma
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Power-Ups
+<p align="center">
+  <img src="https://vercel.app" alt="Stats" width="48%" />
+  <img src="https://vercel.app" alt="Langs" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Trophies" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+<p align="center">
+  <a href="mailto:asemmozhi132008@gmail.com"><img src="https://shields.io" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="https://leetcode.com"><img src="https://shields.io" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" />
+</p>
