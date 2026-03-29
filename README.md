@@ -14,7 +14,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/semmozhi-a-aa4a85381"><img align="center" src="" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/semmozhi-a-aa4a85381"><img align="center" src="
+Codicons – github-inverted.svg
+" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Semmozhi13/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" /></a>
 </p>
 
