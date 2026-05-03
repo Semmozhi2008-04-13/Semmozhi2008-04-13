@@ -1,22 +1,42 @@
 <h1 align="center">Hi 👋, I'm Semmozhi</h1>
-<h3 align="center">Humble, Inquisitive ambivert weaving code with care and collaboration.</h3>
 
-<div align="center"> 
-  <p>
-    📫 How to reach me: <a href="asemmozhi132008@gmail.com">asemmozhi132008@gmail.com</a>
-  </p>
-</div>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/semmozhi-a-aa4a85381" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Semmozhi13" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/Semmozhi13/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="Semmozhi" height="40" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Semmozhi-A&color=45A1FF&style=flat-square&label=VISITORS+COUNT" alt="views" />
 </p>
-<h3 align="center">Languages and Tools:
-</h3><p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
-<p align="center">
 
-<!---
-Semmozhi-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Ambitious+Omnivert+Developer;Turning+Logic+into+Art;Weaving+Code+with+Care;Let's+Build+Something+Great!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/semmozhi-a-aa4a85381/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/Semmozhi13/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+  </a>
+  <a href="mailto:asemmozhi132008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
+
+
+---
+
+### 🚀 About Me
+- 🌍 **The Omnivert Edge:** I thrive in high-energy brainstorming sessions but find my "flow state" in deep, focused solo-coding.
+- 💻 Currently mastering **Full-Stack Development** and solving problems on **LeetCode**.
+- 🤝 Open to collaborations on projects that make a difference.
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,py,mysql,firebase,figma&perline=9" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+</p>
