@@ -48,23 +48,3 @@ I am a 2nd-year B.E. Computer Science Engineering student at **Chennai Institute
 </p>
 
 ---
-
-### 📊 Cosmic Development Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhi13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Semmozhi's GitHub Stats" height="160px"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhi13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semmozhi13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-counter/?username=Semmozhi13&color=7928CA&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=tokyonight" />
-</p>
