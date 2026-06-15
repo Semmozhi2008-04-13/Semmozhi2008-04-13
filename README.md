@@ -44,7 +44,7 @@ I am a 2nd-year B.E. Computer Science Engineering student at **Chennai Institute
 
 ### 🛠️ Languages and Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,html,css,js,react,bootstrap,cpp,py,mysql,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,bootstrap,cpp,py,mysql,linux,git&theme=dark" />
 </p>
 
 ---
